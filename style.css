@@ -135,3 +135,8 @@ header {
 footer {
   font-size: 40px;
 }
+
+.copy-section {
+  font-size: 40px;
+  color: blue;
+}
